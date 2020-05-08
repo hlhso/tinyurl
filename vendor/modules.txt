@@ -1,0 +1,29 @@
+# github.com/go-playground/locales v0.13.0
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+# github.com/go-playground/universal-translator v0.17.0
+## explicit
+github.com/go-playground/universal-translator
+# github.com/go-playground/validator v9.31.0+incompatible
+## explicit
+github.com/go-playground/validator
+# github.com/go-redis/redis/v7 v7.2.0
+## explicit
+github.com/go-redis/redis/v7
+github.com/go-redis/redis/v7/internal
+github.com/go-redis/redis/v7/internal/consistenthash
+github.com/go-redis/redis/v7/internal/hashtag
+github.com/go-redis/redis/v7/internal/pool
+github.com/go-redis/redis/v7/internal/proto
+github.com/go-redis/redis/v7/internal/util
+# github.com/gorilla/mux v1.7.4
+## explicit
+github.com/gorilla/mux
+# github.com/justinas/alice v1.2.0
+## explicit
+github.com/justinas/alice
+# github.com/leodido/go-urn v1.2.0
+## explicit
+github.com/leodido/go-urn
+# gopkg.in/go-playground/assert.v1 v1.2.1
+## explicit
